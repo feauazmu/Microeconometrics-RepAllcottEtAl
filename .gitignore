@@ -3,7 +3,6 @@ out
 # Python files
 __pxcache__/
 *.pyc
-.idea/
 .ipynb_checkpoints/
 *.html
 
