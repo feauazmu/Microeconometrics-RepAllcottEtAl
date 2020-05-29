@@ -1,0 +1,15 @@
+name: microEconProject
+
+channels:
+    - defaults
+    - conda-forge
+    - r
+
+dependencies:
+    - ipykernel   = 5.1.4
+    - jupyterlab  = 2.1.2
+    - python      = 3.8.2
+
+    - r-base      = 3.6.1
+    - r-irkernel  = 0.8.15
+    - r-dplyr     = 0.8.0.1
