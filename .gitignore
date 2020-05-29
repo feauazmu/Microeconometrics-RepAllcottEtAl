@@ -1,0 +1,14 @@
+out
+
+# Python files
+__pxcache__/
+*.pyc
+.idea/
+.ipynb_checkpoints/
+*.html
+
+# Rstudio files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
